@@ -1,0 +1,54 @@
+[
+  {
+    "id": 4,
+    "nombreSuperheroe": "Deadpool",
+    "nombreReal": "Wade Wilson  ",
+    "nombreSociedad": "Mercenario Bocazas",
+    "edad": 43,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ninguna (cáncer curado)",
+    "poder": ["Regeneración", "Habilidades de combate","Ruptura de la cuarta pared"],
+    "habilidadEspecial": "Humor sarcástico",
+    "aliado": ["Cable","X-Force"],
+    "enemigo": ["Francis","Ajax"]
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Wolverine",
+    "nombreReal": "Logan",
+    "nombreSociedad": "X-Men",
+    "edad": 56,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Adamantium (ralentiza la regeneración)",
+    "poder": ["Regeneración", "Garras de adamantium","Sentidos agudos"],
+    "habilidadEspecial": "Instinto salvaje",
+    "aliado": ["X-Men"],
+    "enemigo": ["Sabretooth","Magneto"]
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Storm",
+    "nombreReal": "Ororo Munroe",
+    "nombreSociedad": "X-Men",
+    "edad": 28,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Claustrofobia",
+    "poder": ["Control del clima", "Vuelo"],
+    "habilidadEspecial": "Liderazgo",
+    "aliado": ["X-Men"],
+    "enemigo": ["Enemigos del clima"]
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Cable",
+    "nombreReal": "Nathan Summers",
+    "nombreSociedad": "X-Force",
+    "edad": 46,
+    "planetaOrigen": "Tierra",
+    "debilidad": "Tecnovirus",
+    "poder": ["Telequinesis", "Telepatía","Viaje en el tiempo"],
+    "habilidadEspecial": "Conocimiento del futuro",
+    "aliado": ["WX-Force","Deadpool"],
+    "enemigo": ["Apocalypse"]
+  }
+]
