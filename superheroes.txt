@@ -14,7 +14,9 @@
       "Agilidad"
     ],
     "habilidadEspecial": "Redes de Telaraña",
-    "aliado": "Ironman",
+    "aliado": [
+      "Ironman"
+    ],
     "enemigo": [
       "Duende Verde"
     ]
@@ -33,7 +35,9 @@
       "Lazeres"
     ],
     "habilidadEspecial": "Ingenieria Avanzada",
-    "aliado": "Spiderman",
+    "aliado": [
+      "Spiderman"
+    ],
     "enemigo": [
       "Mandarin"
     ]
